@@ -79,3 +79,7 @@ DO 8 TIMES.
   WRITE: / sy-uline(63).
 ENDDO.
 ```
+<p align="center">
+  <img src="Screenshot_2.png" alt="Img">
+</p>
+
